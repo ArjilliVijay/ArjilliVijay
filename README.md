@@ -1,8 +1,9 @@
 ## Hi👋 , i'm Vijay
 A passionate Web Developer.
 
-- 🔭 SKILLS : HTML , CSS , JavaScript , SQL and React .
-- 🌱 I’m currently learning  to becoming a Full Stack Developer has been both challenging and exhilarating. As someone who is passionate about creating web applications, learning full stack development is a natural progression that allows me to dive deeper into both the front-end and back-end of web development
+- 🌱 I’m currently learning  to become a Full Stack Developer, which has been challenging and exhilarating. As someone passionate about creating web applications, learning full stack development is a natural progression that allows me to dive deeper into both the front-end and back-end of web development
+- - 🔭 SKILLS : HTML , CSS , JavaScript , SQL and React .
+  - ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - 💼 PROJECTS : Explore my innovative projects at https://github.com/ArjilliVijay
 - 👯 I’m looking for  new opportunities and collaborations in Web development and web design.
 - 🎀 As a passionate Frontend Developer, I've always enjoyed crafting visually appealing and user-friendly websites. However, I recently decided to expand my skill set and dive deeper into the world of Full Stack Development. This journey is an exciting challenge, as it allows me to understand both the client-side and server-side of web development.  I thrive on transforming creative ideas into functional and user-friendly applications.
