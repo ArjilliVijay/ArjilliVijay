@@ -23,6 +23,6 @@ Mentorship: I’m eager to connect with experienced developers who can guide me 
 <h3>Networking:</h3>
 I am looking to build connections within the tech community, exchange ideas, and learn from others in the industry.
  💬 Ask me about HTML , CSS , JS , SQL and React .<br>
- 📫 How to reach me : Feel free to connect with me via email at arjillivijay459@gmail.com or through LinkedIn www.linkedin.com/in/arjilli-vijay<br>
+ 📫 How to reach me : Feel free to connect with me via email at https://arjillivijay459@gmail.com or through LinkedIn www.linkedin.com/in/arjilli-vijay<br>
  🤝 Let's collaborate and bring ideas to life! 💡<br>
      Looking forward to connecting with fellow developers and tech enthusiasts !
