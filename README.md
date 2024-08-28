@@ -26,6 +26,6 @@ I am looking to build connections within the tech community, exchange ideas, and
  <h3>💬 Ask me about :</h3>
  HTML , CSS , JavaScript , React , node js
  <h3>📫 How to reach me : </h3>
- Feel free to connect with me via email at https://arjillivijay459@gmail.com or through LinkedIn www.linkedin.com/in/arjilli-vijay<br>
+ Feel free to connect with me via email at https://arjillivijay459@gmail.com <a href="mailto:arjillivijay459@gmail.com.com"><img alt="Email" src="https://img.shields.io/badge/Email-arjillivijay459@gmail.com-blue?style=flat-square&logo=gmail"></a> or through LinkedIn www.linkedin.com/in/arjilli-vijay<br>
  <h3>🤝 Let's collaborate and bring ideas to life! 💡<br></h3>
      Looking forward to connecting with fellow developers and tech enthusiasts !
