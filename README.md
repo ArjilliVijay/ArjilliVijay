@@ -14,7 +14,7 @@
 Explore my innovative projects at https://github.com/ArjilliVijay
 
  👯 I’m looking for  new opportunities and collaborations in Web development and web design.<br>
- 🎀 As a passionate <b color="yellow">Frontend Developer</b>, I've always enjoyed crafting visually appealing and user-friendly websites. 
+ 🎀 As a passionate <b style="color🟡">Frontend Developer</b>, I've always enjoyed crafting visually appealing and user-friendly websites. 
  However, I recently decided to expand my skill set and dive deeper into the world of Full Stack Development. 
  This journey is an exciting challenge, as it allows me to understand both the client-side and server-side of <b>web development </b>.  
  I thrive on transforming creative ideas into functional and user-friendly applications.<br>
