@@ -24,11 +24,7 @@ Mentorship: I’m eager to connect with experienced developers who can guide me 
 <h3>Networking:</h3>
 I am looking to build connections within the tech community, exchange ideas, and learn from others in the industry.<br>
  <h3>💬 Ask me about :</h3>
- - ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  - ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  - ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  - ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>
+ HTML , CSS , JavaScript , React , node js
  <h3>📫 How to reach me : </h3>
  Feel free to connect with me via email at https://arjillivijay459@gmail.com or through LinkedIn www.linkedin.com/in/arjilli-vijay<br>
  <h3>🤝 Let's collaborate and bring ideas to life! 💡<br></h3>
