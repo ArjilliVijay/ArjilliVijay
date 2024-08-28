@@ -2,7 +2,8 @@
 A passionate Web Developer.
 
 - 🌱 I’m currently learning  to become a Full Stack Developer, which has been challenging and exhilarating. As someone passionate about creating web applications, learning full stack development is a natural progression that allows me to dive deeper into both the front-end and back-end of web development
-- - 🔭 SKILLS : HTML , CSS , JavaScript , SQL and React .
+<h3>- - 🔭 SKILLS : </h3>
+  -  HTML , CSS , JavaScript , SQL and React .
   - ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - 💼 PROJECTS : Explore my innovative projects at https://github.com/ArjilliVijay
 - 👯 I’m looking for  new opportunities and collaborations in Web development and web design.
