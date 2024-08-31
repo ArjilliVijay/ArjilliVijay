@@ -10,7 +10,7 @@
   - ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   - ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   - ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<h3>💼 PROJECTS :</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> PROJECTS :</h3>
 Explore my innovative projects at https://github.com/ArjilliVijay
 
  👯 I’m looking for  new opportunities and collaborations in Web development and web design.<br>
