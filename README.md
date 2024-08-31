@@ -1,4 +1,4 @@
-<h1> Hi👋 , i'm Vijay 🙂 </h1><img src ="https://readme-typing-svg.herokuapp.com?font=white&color=8803FC&size=24&lines=I'm+a+Passionate+Web+Developer.;Full-stack+Developer.;AI+Tools+Enthusiast.;An+Open-Source+Enthusiast +!.;" alt="Typing SVG" >
+<h1> Hi👋 , i'm Vijay 🙂 </h1><img src ="https://readme-typing-svg.herokuapp.com?font=white&color=8803FC&size=24&lines=I'm+a+Passionate+Web+Developer.;Full-stack+Developer.; AI+Tools+Enthusiast.;An+Open-Source+Enthusiast +!.;" alt="Typing SVG" >
 <h2>A passionate Web Developer.</h2>
 
  🌱 I’m currently learning  to become a  <b>Full Stack Developer</b>, which has been challenging and exhilarating.
