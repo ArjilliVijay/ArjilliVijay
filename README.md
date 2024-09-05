@@ -24,7 +24,6 @@ Mentorship: I’m eager to connect with experienced developers who can guide me 
 <h3>Networking:</h3>
 I am looking to build connections within the tech community, exchange ideas, and learn from others in the industry.<br>
  <h3>💬 Ask me about :</h3>
-https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13
  HTML , CSS , JavaScript , React , node js
  <h3>📫 How to reach me : </h3>
  Feel free to connect with me via email at   <a href="https://mail.google.com/arjillivijay459@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> or through LinkedIn <a href="https://www.linkedin.com/in/arjilli-vijay/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a></a><br>
