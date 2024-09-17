@@ -1,6 +1,5 @@
-<h1> Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, i'm Vijay  </h1><img src ="https://readme-typing-svg.herokuapp.com?font=yellow&color=8803FC&size=24&lines=I'm+a+Passionate+Web+Developer.;AI+Tools+Enthusiast+!.;Full-stack+Developer.;An+Open-Source+Enthusiast+!.;" alt="Typing.." >
+<h1> Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, i'm Vijay  </h1><img src ="https://readme-typing-svg.herokuapp.com?font=yellow&color=8803FC&size=24&lines=I'm+a+Passionate+Web+Developer.;AI+Tools+Enthusiast+!.;Full-stack+Developer.;An+Open-Source+Enthusiast+!.;" alt="Typing.." ><p align="right"> <img src="https://komarev.com/ghpvc/?username=1nishitagupta&label=Profile%20views&color=0e75b6&style=flat" alt="ArjilliVijay" /> </p>
 <h2>A passionate Web Developer.</h2>
-<img align="right" width="360" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" alt="ArjilliVijay" />
 
  🌱 I’m currently learning  to become a  <b>Full Stack Developer</b>, which has been challenging and exhilarating.
  As someone passionate about creating web applications, learning <b>full stack development</b> is a natural progression that allows me to dive deeper into both the front-end and back-end of web development
