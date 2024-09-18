@@ -35,7 +35,5 @@ I am looking to build connections within the tech community, exchange ideas, and
  Feel free to connect with me via email at   <a href="https://mail.google.com/arjillivijay459@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> or through LinkedIn <a href="https://www.linkedin.com/in/arjilli-vijay/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a></a><br>
  <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />Let's collaborate and bring ideas to life! 💡<br></h3>
      Looking forward to connecting with fellow developers and tech enthusiasts !
-     <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ArjilliVijay&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
+     <img align="center" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
