@@ -33,10 +33,6 @@ Mentorship: I’m eager to connect with experienced developers who can guide me 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vijay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vijay&icon=5&color=6)](https://visitcount.itsvg.in)
-
 <h3>Networking:</h3>
 I am looking to build connections within the tech community, exchange ideas, and learn from others in the industry.<br>
  <h3>💬 Ask me about :</h3>
