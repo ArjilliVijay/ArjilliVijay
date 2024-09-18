@@ -37,5 +37,5 @@ I am looking to build connections within the tech community, exchange ideas, and
      Looking forward to connecting with fellow developers and tech enthusiasts !
      <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=blocage&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=ArjilliVijay&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
