@@ -1,4 +1,4 @@
-<h1> Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, i'm Vijay  </h1><img src ="https://readme-typing-svg.herokuapp.com?font=yellow&color=8803FC&size=24&lines=I'm+a+Passionate+Web+Developer.;AI+Enthusiast+!;Expertise+in+DSA+and+ML+.;" alt="Typing.." ><p align="left"> <img src="https://komarev.com/ghpvc/?username=1nishitagupta&label=Profile%20views&color=0e75b6&style=flat" alt="ArjilliVijay" /> </p>
+<h1> Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />, i'm Vijay  </h1><img src ="https://readme-typing-svg.herokuapp.com?font=yellow&color=8803FC&size=24&lines=I'm+a+Passionate+Web+Developer.;AI+Enthusiast+!;" alt="Typing.." ><p align="left"> <img src="https://komarev.com/ghpvc/?username=1nishitagupta&label=Profile%20views&color=0e75b6&style=flat" alt="ArjilliVijay" /> </p>
 
 <h2>A passionate Web Developer.</h2>
 
