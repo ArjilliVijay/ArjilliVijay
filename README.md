@@ -15,7 +15,7 @@
   - ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
    
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> PROJECTS :</h3>
-Explore my innovative projects at https://github.com/ArjilliVijay
+Explore my innovative projects at https://github.com/ArjilliVijay checkout my personal portfolio at https://vijayarjiilli.netlify.app/
 
  👯 I’m looking for  new opportunities and collaborations in Web development and web design.<br>
  🎀 As a passionate <b>Frontend Developer</b>, I've always enjoyed crafting visually appealing and user-friendly websites. 
